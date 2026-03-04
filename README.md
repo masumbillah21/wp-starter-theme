@@ -2,8 +2,6 @@
 
 `WP Starter Theme` is a WordPress starter theme built on top of Underscores and extended with custom widgets, customizer settings, Bootstrap-based styling, and bundled frontend scripts.
 
-This repository no longer uses the default `_s` README content. The theme in this project is a customized starter theme intended to be used directly and extended for site-specific development.
-
 ## Requirements
 
 - WordPress 4.5 or later
